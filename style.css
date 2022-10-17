@@ -1,0 +1,51 @@
+.img1:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.discount {
+    text-decoration: line-through;
+  }
+  
+  .smllimg {
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    box-shadow: -3px 3px 6px dimgray;
+  }
+
+  #loginbackground {
+    background: url(img/login-background.jpg) no-repeat center center fixed;
+    background-size: cover; }
+    #logname {
+        color: rgb(165, 42, 42, 0.6);
+        /* font-family: Lobster; */
+        font-size: 50px;
+        font-family: "Michroma", sans-serif;
+        /* color: gold; */
+      }
+      #horiz {
+        background-color: white;}
+        .lablestyle {
+            font-family: "Patrick Hand", cursive;
+          }
+
+        #pageRegister {
+            background: url(img/5.jpg) no-repeat center center fixed;
+            background-size: cover;
+          }
+          #Iagree {
+            padding-left: 2px;
+          }
+          #buttcheckbox {
+            width: 20px;
+            height: 15px;
+          }
+          .check_box {
+            font-family: "Patrick Hand", cursive;
+            color: white;
+          }
+
+          .red{
+
+            color: red;
+          }

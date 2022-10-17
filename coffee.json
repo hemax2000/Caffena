@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Amircano",
+    "description": "Caffè Americano is a type of coffee drink prepared by diluting an espresso with hot water",
+    "price": "20$",
+    "profileimage": "img/1.jpg"
+  },
+  {
+    "title": "latte",
+    "description": "latte is a coffee beverage of Italian origin made with espresso and steamed milk.",
+    "price": "18$",
+    "profileimage": "img/2.png"
+  },
+  {
+    "title": "white mocha",
+    "description": "Our signature espresso meets white chocolate sauce and steamed milk.",
+    "price": "22$",
+    "profileimage": "img/3.jpg"
+  },
+  {
+    "title": "hot chocolate",
+    "description": "is heated chocolate milk.",
+    "price": "12$",
+    "profileimage": "img/4.jpg"
+  },
+  {
+    "title": "V60",
+    "description": "V60 is one of specialty coffee’s favourite brewing methods.",
+    "price": "50$",
+    "profileimage": "img/5.jpg"
+  },
+  {
+    "title": "flat white",
+    "description": "coffee drink consisting of espresso with microfoam (steamed milk with small, fine bubbles and a glossy or velvety consistency).",
+    "price": "21$",
+    "profileimage": "img/6.jpg"
+  },
+  {
+    "title": "espresso",
+    "description": " is a coffee-brewing method of Italian origin.",
+    "price": "23$",
+    "profileimage": "img/7.jpg"
+  },
+  {
+    "title": "cortado",
+    "description": " cortado is a beverage consisting of espresso mixed with a roughly equal amount of warm milk to reduce the acidity.",
+    "price": "24$",
+    "profileimage": "img/8.jpg"
+  }
+]
